@@ -6,4 +6,4 @@ I've played with the basics of JS, Python, C++, HTML, and CSS
 
 I'm currently learning how to use React and tailwind CSS
 
-Email me @ Erik.Bowling@outlook.com
+Email me Erik.Bowling@outlook.com
